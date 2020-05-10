@@ -2,3 +2,6 @@ security
 control over system performance
 usese password protections to protect user data and similar other techniques
 monitor over all system to improve performance
+device controlling 
+printing controlling
+booting
